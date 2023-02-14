@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "piDzNSzix2H9YbjXTA/7mM36cpiLkW+qZsD10QhzQcx97JCIHjhxQvr3+lsysqONm+pD3euwQZkrHUFnmV5g+w==",
+  "dgSpecHash": "1nY0Qw0F2tCOOe6CNhqWxmNVzzSxAJensIMKFSPAi9tOvk8a7q5E2UZEUzTmLlCuDxYnZRzlYRW6iL6JpKuJig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jose.naldo\\source\\repos\\DapperCrud\\Data\\Data.csproj",
+  "projectFilePath": "C:\\dev\\DapperCrud\\Data\\Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jose.naldo\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\jose.naldo\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.2\\microsoft.data.sqlite.core.7.0.2.nupkg.sha512",

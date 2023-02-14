@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zP6mJkxBGm5OI9bf8PTzh2Zw8j4DfJefq/kaX374awVRQgmRIFT3NsQp+J9+DjWhYdOZdhjJM+f4w1ez5r1I9Q==",
+  "dgSpecHash": "YNJeEbHTKDZ7H2ynsseb7cZ+R9WhYuzzO1k03+BvLRV+wKxFGxXOH66XnA5Fa/wX0+Km2X1e2W5X0hBKdjXFzQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jose.naldo\\source\\repos\\DapperCrud\\CrossCutting\\CrossCutting.csproj",
+  "projectFilePath": "C:\\dev\\DapperCrud\\CrossCutting\\CrossCutting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jose.naldo\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\jose.naldo\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

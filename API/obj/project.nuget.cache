@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OGg4G/zEd7ucaNE3nA/jW2UtVWIeX+Elub4XWqWKbbt4vf/xm1ie0hXUqr8D4+Sj1cZTJAIuKcDXdcUvP1qVWA==",
+  "dgSpecHash": "0yATXvQWDjT5uWxjgmGCPQ+/tWnLH0I73QvM5QUQLyVtjFqSCWr8UCXvMIk8V9nVtFJd9A5fJExniz+qW0uIVg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jose.naldo\\source\\repos\\DapperCrud\\API\\API.csproj",
+  "projectFilePath": "C:\\dev\\DapperCrud\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jose.naldo\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\jose.naldo\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

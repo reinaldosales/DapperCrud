@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jose.naldo\\source\\repos\\DapperCrud\\Shared\\Shared.csproj": {}
+    "C:\\dev\\DapperCrud\\Shared\\Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jose.naldo\\source\\repos\\DapperCrud\\Shared\\Shared.csproj": {
+    "C:\\dev\\DapperCrud\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jose.naldo\\source\\repos\\DapperCrud\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\dev\\DapperCrud\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "C:\\Users\\jose.naldo\\source\\repos\\DapperCrud\\Shared\\Shared.csproj",
+        "projectPath": "C:\\dev\\DapperCrud\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\jose.naldo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jose.naldo\\source\\repos\\DapperCrud\\Shared\\obj\\",
+        "outputPath": "C:\\dev\\DapperCrud\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

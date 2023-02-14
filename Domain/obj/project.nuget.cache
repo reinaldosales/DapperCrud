@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FB4fw96XxK9WbuC8CHtglpeKGk+8MLdro4SOpiYgt7+7BNVrs3yDFdJxPoIa48jhaWBhSrYxCQH1eZe923ezww==",
+  "dgSpecHash": "wt1QSVScV/xadHo4wh16HEdcNCqMttzYZxkpWh/jjgi1eSiGnWvFV5kA46dOBS9LVVKkEB8SioO1k94XhnNTvg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jose.naldo\\source\\repos\\DapperCrud\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\dev\\DapperCrud\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

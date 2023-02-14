@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jose.naldo\\source\\repos\\DapperCrud\\Data\\Data.csproj": {}
+    "C:\\dev\\DapperCrud\\Data\\Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jose.naldo\\source\\repos\\DapperCrud\\Data\\Data.csproj": {
+    "C:\\dev\\DapperCrud\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jose.naldo\\source\\repos\\DapperCrud\\Data\\Data.csproj",
+        "projectUniqueName": "C:\\dev\\DapperCrud\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\jose.naldo\\source\\repos\\DapperCrud\\Data\\Data.csproj",
+        "projectPath": "C:\\dev\\DapperCrud\\Data\\Data.csproj",
         "packagesPath": "C:\\Users\\jose.naldo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jose.naldo\\source\\repos\\DapperCrud\\Data\\obj\\",
+        "outputPath": "C:\\dev\\DapperCrud\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\jose.naldo\\source\\repos\\DapperCrud\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\jose.naldo\\source\\repos\\DapperCrud\\Domain\\Domain.csproj"
+              "C:\\dev\\DapperCrud\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\dev\\DapperCrud\\Domain\\Domain.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\Users\\jose.naldo\\source\\repos\\DapperCrud\\Domain\\Domain.csproj": {
+    "C:\\dev\\DapperCrud\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jose.naldo\\source\\repos\\DapperCrud\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\dev\\DapperCrud\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\jose.naldo\\source\\repos\\DapperCrud\\Domain\\Domain.csproj",
+        "projectPath": "C:\\dev\\DapperCrud\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\jose.naldo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jose.naldo\\source\\repos\\DapperCrud\\Domain\\obj\\",
+        "outputPath": "C:\\dev\\DapperCrud\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

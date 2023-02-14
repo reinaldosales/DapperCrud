@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OtDdkCy2WH/E3sgDBuDwmg/XFcRovUKipiGWm12vm00IPzAkWb9sPibr02FvMzU/7/Pkw+RtwYv0dPQIGL4Yhw==",
+  "dgSpecHash": "9JRmPx78/oNr8G82dbhDGOc/cp9IvVsE5iPTmiINrZ5QByuFh1BWJHXWpm8cm24NzsbemZvOy8sDh4KbgLu1bA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jose.naldo\\source\\repos\\DapperCrud\\Service\\Service.csproj",
+  "projectFilePath": "C:\\dev\\DapperCrud\\Service\\Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jose.naldo\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\jose.naldo\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.10.0\\microsoft.identitymodel.jsonwebtokens.6.10.0.nupkg.sha512",
