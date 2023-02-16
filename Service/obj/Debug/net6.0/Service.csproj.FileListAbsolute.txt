@@ -28,3 +28,5 @@ C:\dev\DapperCrud\Service\obj\Debug\net6.0\Service.dll
 C:\dev\DapperCrud\Service\obj\Debug\net6.0\refint\Service.dll
 C:\dev\DapperCrud\Service\obj\Debug\net6.0\Service.pdb
 C:\dev\DapperCrud\Service\obj\Debug\net6.0\ref\Service.dll
+C:\dev\DapperCrud\Service\bin\Debug\net6.0\Shared.dll
+C:\dev\DapperCrud\Service\bin\Debug\net6.0\Shared.pdb

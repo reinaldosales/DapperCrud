@@ -1,5 +1,6 @@
 ﻿using Domain.Entity;
 using Microsoft.IdentityModel.Tokens;
+using Shared.Helpers;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
@@ -11,7 +12,7 @@ namespace Service.Services
         public static string GenerateToken(User user)
         {
             var tokenHandler = new JwtSecurityTokenHandler();
-            var key = Encoding.ASCII.GetBytes(Settings.Settings.SecretKey);
+            var key = Encoding.ASCII.GetBytes(HelperConfigs.SecretKey);
 
             var tokenDescriptor = new SecurityTokenDescriptor
             {

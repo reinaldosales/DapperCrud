@@ -1,16 +1,18 @@
 using CrossCutting.IoC;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 using Service.Settings;
+using Shared.Helpers;
+using System.Configuration;
 using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+
 builder.Services.AddEndpointsApiExplorer();
+
 builder.Services.AddSwaggerGen(options =>
 {
     options.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo()
@@ -29,10 +31,10 @@ builder.Services.AddSwaggerGen(options =>
 builder.Services.AddServiceDependency();
 builder.Services.AddRepositoryDependency();
 
-// Key to authentication
-var key = Encoding.ASCII.GetBytes(Settings.SecretKey);
+var test = System.Configuration.ConfigurationManager.ConnectionStrings[0];
 
-// Authorization JWT configuration
+var key = Encoding.ASCII.GetBytes(builder.Configuration.GetValue<string>("appSettings:SecretKey"));
+
 builder.Services.AddAuthentication(x =>
 {
     x.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
@@ -52,11 +54,9 @@ builder.Services.AddAuthentication(x =>
 
 var app = builder.Build();
 
-// Using Authorization and Authentication
 app.UseAuthentication();
 app.UseAuthorization();
 
-// Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();

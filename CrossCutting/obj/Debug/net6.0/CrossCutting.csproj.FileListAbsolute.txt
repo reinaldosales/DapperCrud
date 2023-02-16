@@ -36,3 +36,5 @@ C:\dev\DapperCrud\CrossCutting\obj\Debug\net6.0\CrossCutting.dll
 C:\dev\DapperCrud\CrossCutting\obj\Debug\net6.0\refint\CrossCutting.dll
 C:\dev\DapperCrud\CrossCutting\obj\Debug\net6.0\CrossCutting.pdb
 C:\dev\DapperCrud\CrossCutting\obj\Debug\net6.0\ref\CrossCutting.dll
+C:\dev\DapperCrud\CrossCutting\bin\Debug\net6.0\Shared.dll
+C:\dev\DapperCrud\CrossCutting\bin\Debug\net6.0\Shared.pdb

@@ -28,3 +28,5 @@ C:\dev\DapperCrud\Data\obj\Debug\net6.0\Data.dll
 C:\dev\DapperCrud\Data\obj\Debug\net6.0\refint\Data.dll
 C:\dev\DapperCrud\Data\obj\Debug\net6.0\Data.pdb
 C:\dev\DapperCrud\Data\obj\Debug\net6.0\ref\Data.dll
+C:\dev\DapperCrud\Data\bin\Debug\net6.0\Shared.dll
+C:\dev\DapperCrud\Data\bin\Debug\net6.0\Shared.pdb

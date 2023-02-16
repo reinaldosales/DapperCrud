@@ -1,19 +1,19 @@
-﻿using Microsoft.Data.Sqlite;
+﻿using Shared.Helpers;
 using System.Data;
 using System.Data.SqlClient;
 
 namespace Data.Context
 {
-    internal class DBContext
+    public class DBContext
     {
-        private readonly string _connectionStrings = "Data Source=bd;Initial Catalog=db;User ID=db;Password=db;Pooling=True;Connect Timeout=180; Application Name=Integration System;Trusted_Connection=False; TrustServerCertificate=True";
+        protected string ConnectionString { get; private set; }
 
-        private readonly string _sqliteConnectionStrings = "Data Source=C:\\DapperCrud.db";
+        public DBContext()
+        {
+            ConnectionString = HelperConfigs.DefaultConnectionStrings;
+        }
 
         public IDbConnection SqlConnection()
-            => new SqlConnection(_connectionStrings);
-
-        public IDbConnection SqliteConnection()
-            => new SqliteConnection(_sqliteConnectionStrings);
+            => new SqlConnection(ConnectionString);
     }
 }

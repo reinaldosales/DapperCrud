@@ -1,8 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "wFgvCIj0VEeF2lC4/FGqsEOe9Jl7VbKeTL3nG+DFxVtcw4IdG7+JRtC5tBHcVp5Ge60+b5mBorlxNPw7SvutDw==",
+  "dgSpecHash": "XY7OQ1qD8LMguTAu3ffgFl5cW7IFNHvye2mR6zXX0/3egIT7am/07E73xp5sLLIVAPQMqfw0ThHaDl6iql0LHQ==",
   "success": true,
   "projectFilePath": "C:\\dev\\DapperCrud\\Shared\\Shared.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\jose.naldo\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.2.0\\microsoft.extensions.configuration.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\jose.naldo\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\jose.naldo\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\jose.naldo\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\jose.naldo\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\jose.naldo\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\jose.naldo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\jose.naldo\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\jose.naldo\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\jose.naldo\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
