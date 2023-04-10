@@ -44,7 +44,7 @@ namespace API.Controllers
             {
                 var category = _categoryService.CreateNewCategory(model);
 
-                return Ok(new { Result = category });
+                return Ok(new { Result = category.Id });
             }
             catch (Exception)
             {
