@@ -95,7 +95,7 @@ namespace API.Controllers
             }
         }
 
-        [Authorize]
+        //[Authorize]
         [HttpDelete]
         [Route("DeleteCategory/{id}")]
         public ActionResult DeleteCategory(int id)
